@@ -1,5 +1,5 @@
 # 💫 About Me:
-Contador, estudante de programação<br>Estou buscando conhecimento no mundo da programação<br><br>
+Contador, estudante de programação<br>Estou buscando conhecimento no mundo da programação cursando: Universidade Brasileira Livre<br><br>
 
 
 ## 🌐 Socials:
