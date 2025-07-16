@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou Allan Oliveira</h1>
 
 <p align="center">
-  🎯 Especialista em Dados e Auditoria | 📊 Power BI & SQL | 🧠 Ciências de Dados Aplicadas à Gestão Pública<br/>
+  🎯 Especialista em Dados e Auditoria | 📊 Power BI & SQL | 🧠 Ciências de Dados Aplicadas à controladoria<br/>
   🌎 Brasileiro | 💼 Transformando dados em decisões inteligentes
 </p>
 
@@ -13,7 +13,7 @@
 - 📚 Experiência em auditorias com foco em **finanças , operacional , conformidades**
 - 🛠️ Projetos práticos com **Power BI**, **SQL**, **Excel**, **Python** e ferramentas de análise de balanços
 - 🚀 Em constante aprendizado, com formações vinculadas à UECE, SENAI-SP, Unichristus, IFSC e outras instituições
-- 💡 Interesses: Governança, Risco, Compliance, Business Intelligence, Inovação no Setor Público e privado e Cibersegurança
+- 💡 Interesses: controladoria, Governança, Risco, Compliance, Business Intelligence, Inovação no Setor Público e privado e Cibersegurança
 
 ---
 
