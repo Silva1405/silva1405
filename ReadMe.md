@@ -10,10 +10,10 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 Profissional com múltiplas especializações em **Ciência de Dados, Auditoria, Controladoria, GRC e Contabilidade**
-- 📚 Experiência em auditorias com foco em **finanças , operacional , conformidades**
+- 📚 Experiência em Controladoria com foco em **finanças , operacional , conformidades**
 - 🛠️ Projetos práticos com **Power BI**, **SQL**, **Excel**, **Python** e ferramentas de análise de balanços
 - 🚀 Em constante aprendizado, com formações vinculadas à UECE, SENAI-SP, Unichristus, IFSC e outras instituições
-- 💡 Interesses: controladoria, Governança, Risco, Compliance, Business Intelligence, Inovação no Setor Público e privado e Cibersegurança
+- 💡 Interesses: Contabilidade, controladoria, Governança, Risco, Compliance, Business Intelligence, Inovação no Setor Público e privado e Cibersegurança
 
 ---
 
