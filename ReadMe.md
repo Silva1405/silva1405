@@ -75,6 +75,17 @@
   />
 </p>
 
+---
+
+### 🧠 Linguagens que mais utilizo
+
+- 🟨 **SQL** – Consultas, modelagem de dados, ETL
+- 🐍 **Python** – Análise de dados, automações, scripts de auditoria
+- 📊 **DAX** – Medidas e KPIs no Power BI
+- 💡 **M (Power Query)** – Transformações e preparação de dados no Power BI
+- 📈 **R** – Estatística e visualização de dados aplicada em auditorias
+
+
 
 ---
 
