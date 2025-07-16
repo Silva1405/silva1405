@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou Allan Oliveira</h1>
 
 <p align="center">
-  🎯 Especialista em Dados e Auditoria | 📊 Power BI & SQL | 🧠 Ciências de Dados Aplicadas à controladoria<br/>
+  🎯 Especialista em Dados e Controladoria | 📊 Power BI & SQL | 🧠 Ciências de Dados Aplicadas à controladoria<br/>
   🌎 Brasileiro | 💼 Transformando dados em decisões inteligentes
 </p>
 
