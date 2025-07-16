@@ -34,7 +34,7 @@
 
 - 📚 **Bacharelado em Contabilidade** – Unichristus 
 
-- 🇺🇸 **Curso de Inglês** – Instituto Federal de Santa Catarina 
+- **Curso de Inglês** – Instituto Federal de Santa Catarina 
 
 ---
 
@@ -59,21 +59,7 @@
 | **Relatórios Interativos de Logística** | Visualização com mapas e filtros dinâmicos | Power BI |
 | **Simples Nacional na Prática** | Cálculos com substituição tributária, produtos monofásicos e fator R | Excel + PGDAS |
 
-## 📊 Estatísticas
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=allanoliveira&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" 
-    alt="Estatísticas do GitHub"
-    height="200px"
-    style="padding-right: 10px;"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanoliveira&layout=compact&theme=tokyonight&locale=pt-br&title=Tecnologias%20Mais%20Usadas"
-    alt="Linguagens mais usadas"
-    height="200px"
-  />
-</p>
 
 ---
 
