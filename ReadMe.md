@@ -87,7 +87,7 @@
 
 ### 💡 Curiosidades
 
-- 🔍 Realizo auditorias com apoio de ferramentas digitais e visão crítica orientada por dados
+- 🔍 Acredito no poder dos dados para transformar a controladoria e a auditoria, utilizando ferramentas digitais para uma **visão crítica e orientada a resultados**.
 - 🗂️ Concluí mais de 60 cursos nas áreas de dados, contabilidade e Controladoria
 - 📊 Apaixonado por transformar relatórios estáticos em dashboards interativos e acessíveis
 - 🐜 Acredito na inovação por etapas: “evoluímos como formiguinhas, mas sempre em frente!”
