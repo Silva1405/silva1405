@@ -63,8 +63,8 @@
 
 ### 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario) <!-- substitua pelo link real -->
-- 📧 Email: allan@email.com <!-- substitua pelo seu email real -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/allan-oliveira-688172166/)
+- 📧 Email: allan_oliveiracont@gmail.com
 - 🌐 Portfólio: _em construção_
 
 ---
@@ -72,13 +72,13 @@
 ### 💡 Curiosidades
 
 - 🔍 Realizo auditorias com apoio de ferramentas digitais e visão crítica orientada por dados
-- 🗂️ Concluí mais de 30 cursos nas áreas de dados, contabilidade e administração pública
+- 🗂️ Concluí mais de 30 cursos nas áreas de dados, contabilidade e Controladoria
 - 📊 Apaixonado por transformar relatórios estáticos em dashboards interativos e acessíveis
 - 🐜 Acredito na inovação por etapas: “evoluímos como formiguinhas, mas sempre em frente!”
 
 ---
 
 <p align="center">
-  Obrigado por visitar meu perfil! ⭐ Vamos conectar dados e transformar a gestão pública!
+  Obrigado por visitar meu perfil! ⭐ Vamos conectar dados e transformar a controladoria!
 </p>
 
