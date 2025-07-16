@@ -54,12 +54,12 @@
 
 | Projeto | Descrição | Ferramentas |
 |--------|-----------|-------------|
-| **Dashboard de Vendas** | Análise de desempenho comercial com métricas de faturamento, lucro e metas | Power BI + Excel |
-| **Fluxo de Caixa Empresarial** | Controle e projeção financeira com entradas, saídas e análise gráfica | Power BI |
-| **Auditoria do Abastecimento de Água** | Verificação de desvios, inconsistências e conformidade no processo de distribuição | Excel + Power BI |
-| **Análise de Balanço Público** | Indicadores contábeis com análises horizontal e vertical para tomada de decisão | Power BI |
-| **Relatórios Interativos de Logística** | Visualização com mapas e filtros dinâmicos | Power BI |
-| **Simples Nacional na Prática** | Cálculos com substituição tributária, produtos monofásicos e fator R | Excel + PGDAS |
+| **Dashboard de Vendas** | Análise de desempenho comercial com métricas de faturamento, lucro e metas | Power BI + Excel + Python + R |
+| **Fluxo de Caixa Empresarial** | Controle e projeção financeira com entradas, saídas e análise gráfica | Power BI + SQL + Python + R |
+| **Auditoria do Abastecimento de Água** | Verificação de desvios, inconsistências e conformidade no processo de distribuição | Python + R + Excel + Power BI |
+| **Análise de Balanço Público** | Indicadores contábeis com análises horizontal e vertical para tomada de decisão | Python + Excel + R + Power BI |
+| **Relatórios Interativos de Logística** | Visualização com mapas e filtros dinâmicos | Power BI + SQL |
+| **Simples Nacional na Prática** | Cálculos com substituição tributária, produtos monofásicos e fator R | Python + Excel + PGDAS |
 
 
 
