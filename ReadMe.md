@@ -60,6 +60,8 @@
 | **Análise de Balanço Público** | Indicadores contábeis com análises horizontal e vertical para tomada de decisão | Python + Excel + R + Power BI |
 | **Relatórios Interativos de Logística** | Visualização com mapas e filtros dinâmicos | Power BI + SQL |
 | **Simples Nacional na Prática** | Cálculos com substituição tributária, produtos monofásicos e fator R | Python + Excel + PGDAS |
+| **Análise de Pacientes Hospitalar** | objetivo filtrar e classificar dados de pacientes a partir de um conjunto contendo informações clínicas relacionadas ao desenvolvimento de diabetes | Python + Excel + SQL |
+
 
 
 
