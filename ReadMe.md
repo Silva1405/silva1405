@@ -45,7 +45,6 @@
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=Power-BI&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
